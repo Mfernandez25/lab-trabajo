@@ -1,0 +1,28 @@
+/**{
+	outline: 1px solid red;
+}*/
+
+.proyectos{
+	background-color: #5D8039;
+}
+.proyectos .fotos{
+	width: 90%;	
+}
+.equipo-fotos{
+	border-radius: 100%;
+}
+.equipo .redes li{
+	display: inline-block;
+}
+.equipo .redes img{
+	width: 30px;
+}
+.blog-fotos{
+	width: 100%;
+}
+
+.redes-sociales li{
+	border: 1px solid black;
+	display: inline-block;
+	padding: 100px;
+}
