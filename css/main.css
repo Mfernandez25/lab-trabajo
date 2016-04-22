@@ -21,8 +21,7 @@
 	width: 100%;
 }
 
-.redes-sociales li{
-	border: 1px solid black;
-	display: inline-block;
-	padding: 100px;
+}
+.redes-sociales img{
+	width: 40px;
 }
